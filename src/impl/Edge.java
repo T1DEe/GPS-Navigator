@@ -1,4 +1,4 @@
-package main.java.com.epam.impl;
+package impl;
 
 /**
  * Class describes the edge between two vertices

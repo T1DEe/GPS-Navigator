@@ -1,4 +1,4 @@
-package main.java.com.epam.api;
+package api;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package main.java.com.epam.impl;
+package impl;
 
-import main.java.com.epam.api.*;
+import api.*;
 
 import java.io.FileInputStream;
 import java.util.*;

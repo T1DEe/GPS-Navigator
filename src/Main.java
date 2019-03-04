@@ -1,17 +1,13 @@
-package main.java.com.epam;
-
-import main.java.com.epam.api.*;
-import main.java.com.epam.impl.StubGpsNavigator;
+import api.*;
+import impl.StubGpsNavigator;
 
 import java.util.Scanner;
 
-/**
- * This class app demonstrates how your implementation of {@link main.java.com.epam.api.GpsNavigator} is intended to be used.
- */
+
 public class Main {
 
     public static void main(String[] args){
-        String defaultPath = "/Users/artemymarkovsky/Desktop/epam_test/src/main/java/com/epam/road_map.txt";
+        String defaultPath = "your file path here";
         String defaultPointA = "A";
         String defaultPointB = "C";
 

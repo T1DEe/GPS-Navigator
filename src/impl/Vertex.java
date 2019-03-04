@@ -1,4 +1,4 @@
-package main.java.com.epam.impl;
+package impl;
 
 import java.util.ArrayList;
 
